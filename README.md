@@ -1,2 +1,2 @@
-# Madlibs-game
-this is short game which is fun to play and gives new answer every time with every different user who plays it.
+# Python projects 
+well, here are different types of fun and intresting projects of python which are intresting and fun to play.

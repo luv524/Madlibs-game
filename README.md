@@ -5,5 +5,7 @@ here is the list of all the projects i ahev made till now, stay tuned as much to
 # 2. shoping cart program
 # 3. language conversion program
 # 4. calculator program 
-# 5. 
+# 5. experiment 1 of aiml lab 
+# 6. some math modules
+# 7.
 

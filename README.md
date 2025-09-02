@@ -8,5 +8,7 @@ here is the list of all the projects i ahev made till now, stay tuned as much to
 # 5. experiment 1 of aiml lab 
 # 6. some math modules
 # 7. regular days program simultaneously
+# 8. iterative and string examples
+
 
 
